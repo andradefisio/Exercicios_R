@@ -58,7 +58,7 @@ fc_numero_notas <- function(saque){
                 } 
                 contador = contador + 1
         }
-        list(' N.? notas de 100' = num_notas[1],' N.? notas de 50' = num_notas[2],' N.? notas de 10' = num_notas[3],' N.? notas de 5' = num_notas[4],' N.? notas de 2' = num_notas[5],' N.? moedas de 1' = num_notas[6])
+        list(' N.? notas de 100' = num_notas[1],' N.? notas de 50' = num_notas[2],' N.º notas de 10' = num_notas[3],' N.? notas de 5' = num_notas[4],' N.? notas de 2' = num_notas[5],' N.? moedas de 1' = num_notas[6])
 }
 
 # test:
